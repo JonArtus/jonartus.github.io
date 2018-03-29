@@ -1,0 +1,74 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test1.com" resolutions="1x" timestamp="1522317200135">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="166563219" ref="we-re-hiring!:the-community:our-story:who-we-are:commercial-services:index:core-team:wider-benefits:purpose"/>
+    <file name="we-re-hiring_.css" crc="85974716" ref="we-re-hiring!"/>
+    <file name="the-community.css" crc="85974716" ref="the-community"/>
+    <file name="our-story.css" crc="85974716" ref="our-story"/>
+    <file name="who-we-are.css" crc="85974716" ref="who-we-are"/>
+    <file name="commercial-services.css" crc="4200698104" ref="commercial-services"/>
+    <file name="index.css" crc="388498813" ref="index"/>
+    <file name="core-team.css" crc="85974716" ref="core-team"/>
+    <file name="wider-benefits.css" crc="85974716" ref="wider-benefits"/>
+    <file name="purpose.css" crc="85974716" ref="purpose"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="museutils.js" crc="340535759" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="whatinput.js" crc="86476730" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="museconfig.js" crc="310584261" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="require.js" crc="7928878" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1140_states.png" crc="231804915" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1140_states-r.png" crc="401328907" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1140_states-a.png" crc="401328907" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1143-4.png" crc="4221786375" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1146_states.png" crc="3960483073" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1146_states-r.png" crc="4240404353" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1146_states-a.png" crc="4240404353" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1149_states.png" crc="502256777" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1149_states-r.png" crc="4180579540" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1149_states-a.png" crc="4180579540" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1152_states.png" crc="3836441780" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1152_states-r.png" crc="194089332" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1152_states-a.png" crc="194089332" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1155_states.png" crc="435872024" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1155_states-r.png" crc="90840458" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1155_states-a.png" crc="90840458" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1321.png" crc="233235472" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1321-r.png" crc="54964684" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1321-a.png" crc="54964684" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1362-4.png" crc="397801107" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u1381-4.png" crc="401396866" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="dsc_0868-crop-u4156.jpg" crc="207746233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4181-10.png" crc="227205918" ref="index"/>
+    <file name="u4184-18.png" crc="83957407" ref="index"/>
+    <file name="u131-4.png" crc="4280595226" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u141-4.png" crc="312912579" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u145-4.png" crc="96601994" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u2901-8.png" crc="351979898" ref="commercial-services"/>
+    <file name="u2929-10.png" crc="4181846145" ref="commercial-services"/>
+    <file name="session sequence diagram for commercial services -05-crop-u2961.png" crc="371260361" seo="true" ref="commercial-services">
+      <caption webpage="commercial-services" alt=""/>
+    </file>
+    <file name="u3002-4.png" crc="4177499454" ref="commercial-services"/>
+    <file name="u2979-12.png" crc="4109469905" ref="commercial-services"/>
+    <file name="u2985-6.png" crc="528215572" ref="commercial-services"/>
+  </folder>
+  <file name="index.html" crc="3907667626" seo="true" mt="1522315269811" redirect="true"/>
+  <file name="purpose.html" crc="4028770835" seo="true" mt="1522315048559" redirect="true"/>
+  <file name="our-story.html" crc="84999174" seo="true" mt="1522315048559" redirect="true"/>
+  <file name="commercial-services.html" crc="134395759" seo="true" mt="1522315048559" redirect="true"/>
+  <file name="wider-benefits.html" crc="4225234810" seo="true" mt="1522315048559" redirect="true"/>
+  <file name="the-community.html" crc="4202105180" seo="true" mt="1522315048559" redirect="true"/>
+  <file name="who-we-are.html" crc="303909746" seo="true" mt="1522315048559" redirect="true"/>
+  <file name="core-team.html" crc="4165239691" seo="true" mt="1522315048559" redirect="true"/>
+  <file name="we-re-hiring!.html" crc="202966129" seo="true" mt="1522315048559" redirect="true"/>
+</manifest>
