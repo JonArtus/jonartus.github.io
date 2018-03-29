@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test1.com" resolutions="1x" timestamp="1522348608712">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test1.com" resolutions="1x" timestamp="1522349820669">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="305698553" ref="we-re-hiring!:the-community:our-story:who-we-are:commercial-services:index:core-team:wider-benefits:purpose"/>
-    <file name="we-re-hiring_.css" crc="207796185" ref="we-re-hiring!"/>
+    <file name="we-re-hiring_.css" crc="3875179214" ref="we-re-hiring!"/>
     <file name="the-community.css" crc="4204624440" ref="the-community"/>
     <file name="our-story.css" crc="3909938380" ref="our-story"/>
     <file name="who-we-are.css" crc="373579472" ref="who-we-are"/>
@@ -54,7 +54,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u4181-29.png" crc="4223387338" ref="index"/>
-    <file name="u5119-4.png" crc="413910869" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
+    <file name="u5119-4.png" crc="3860727577" ref="index:purpose:our-story:commercial-services:wider-benefits:the-community:who-we-are:core-team:we-re-hiring!"/>
     <file name="u4190-40.png" crc="3917983501" ref="purpose"/>
     <file name="project wheel final_project wheel copy 2-crop-u5106.png" crc="3935398563" seo="true" ref="purpose">
       <caption webpage="purpose" alt=""/>
@@ -118,18 +118,18 @@
     <file name="cc_right_person-crop-u4914.jpg" crc="278600454" seo="true" ref="we-re-hiring!">
       <caption webpage="we-re-hiring!" alt=""/>
     </file>
-    <file name="u4926-29.png" crc="3866651415" ref="we-re-hiring!"/>
     <file name="u5125-4.png" crc="4121676716" ref="we-re-hiring!"/>
     <file name="u5131-4.png" crc="4279490186" ref="we-re-hiring!"/>
     <file name="u5134-5.png" crc="3851107259" ref="we-re-hiring!"/>
+    <file name="u4926-25.png" crc="4068857406" ref="we-re-hiring!"/>
   </folder>
-  <file name="index.html" crc="4177505278" seo="true" mt="1522348240543" redirect="true"/>
-  <file name="purpose.html" crc="502425605" seo="true" mt="1522348240543" redirect="true"/>
-  <file name="our-story.html" crc="32017164" seo="true" mt="1522348240543" redirect="true"/>
-  <file name="commercial-services.html" crc="306604848" seo="true" mt="1522348240543" redirect="true"/>
-  <file name="wider-benefits.html" crc="4005363259" seo="true" mt="1522348240543" redirect="true"/>
-  <file name="the-community.html" crc="3939666008" seo="true" mt="1522348240543" redirect="true"/>
-  <file name="who-we-are.html" crc="4191061812" seo="true" mt="1522348240543" redirect="true"/>
-  <file name="core-team.html" crc="3776682578" seo="true" mt="1522348240543" redirect="true"/>
-  <file name="we-re-hiring!.html" crc="4238725739" seo="true" mt="1522348524339" redirect="true"/>
+  <file name="index.html" crc="227772266" seo="true" mt="1522349801679" redirect="true"/>
+  <file name="purpose.html" crc="177101359" seo="true" mt="1522349801679" redirect="true"/>
+  <file name="our-story.html" crc="4249811048" seo="true" mt="1522349801679" redirect="true"/>
+  <file name="commercial-services.html" crc="4197591567" seo="true" mt="1522349801679" redirect="true"/>
+  <file name="wider-benefits.html" crc="3759933714" seo="true" mt="1522349801679" redirect="true"/>
+  <file name="the-community.html" crc="4137899910" seo="true" mt="1522349801679" redirect="true"/>
+  <file name="who-we-are.html" crc="4196638184" seo="true" mt="1522349801679" redirect="true"/>
+  <file name="core-team.html" crc="444430218" seo="true" mt="1522349801679" redirect="true"/>
+  <file name="we-re-hiring!.html" crc="468481537" seo="true" mt="1522349801679" redirect="true"/>
 </manifest>
