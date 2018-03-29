@@ -6,7 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://test1.com/images/dsc_0868-crop-u4156.jpg</image:loc>
+      <image:loc>http://test1.com/images/edited%20by%20ruby%20(2%20of%204)-crop-u4964.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -14,12 +14,21 @@
     <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test1.com/images/project%20wheel%20final_project%20wheel%20copy%202-crop-u5106.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test1.com/our-story.html</loc>
     <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test1.com/images/number%20of%20users%20graph%20no%20outline-03-crop-u5083.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test1.com/images/edited%20by%20ruby%20(4%20of%204)-crop-u5005.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test1.com/commercial-services.html</loc>
@@ -27,7 +36,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://test1.com/images/session%20sequence%20diagram%20for%20commercial%20services%20-05-crop-u2961.png</image:loc>
+      <image:loc>http://test1.com/images/commercial%20services%20diagram-05-crop-u4287.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -35,6 +44,9 @@
     <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test1.com/images/wider%20benefits%20diagram-06-crop-u4265.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test1.com/the-community.html</loc>
@@ -47,17 +59,44 @@
     <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test1.com/images/edited%20by%20ruby%20(1%20of%204)-crop-u4942.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test1.com/core-team.html</loc>
     <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test1.com/images/hilary-team-photos.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test1.com/images/andrew---team-photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test1.com/images/bengt--team-photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test1.com/images/andrew-k---team-photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test1.com/images/emily-%20team%20photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test1.com/images/ruby-team%20photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test1.com/images/reinier---team-photo.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test1.com/we-re-hiring!.html</loc>
     <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test1.com/images/cc_right_person-crop-u4914.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
